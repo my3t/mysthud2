@@ -41,7 +41,7 @@
 			"defaultBgColor_override"	"0 0 0 0"
 
 			"border_armed"		"NoBorder"
-			"armedBgColor_override"	"235 226 202 20"
+			"armedBgColor_override"	"255 255 255 20"
 
 			"sound_armed"		"ui/item_info_mouseover.wav"
 			"sound_depressed"	"UI/buttonclick.wav"

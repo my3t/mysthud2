@@ -73,7 +73,7 @@
 	"HomeServerButton"
 	{
 		"label"			"p"
-		"command"		"engine connect 138.197.133.71; password flawhud"
+		"command"		"engine connect sg.orangex1000.titan.tf:27000"
 		"tooltip"		"Home Server"
 	}
 }

@@ -349,9 +349,9 @@ Scheme
 				"name"			"Cerbetica"
 				"name"			"Helvetica" [$OSX]
 				"tall"			"18"
-				"weight"		"100"
+				"weight"		"900"
 				"antialias"		"1"
-				"additive"		"0"
+				"additive"		"1"
 			}
 		}
 
@@ -384,7 +384,7 @@ Scheme
 			{
 				"name"			"Cerbetica"
 				"tall"			"24"
-				"weight"		"500"
+				"weight"		"100"
 				"additive"		"0"
 				"antialias"		"1"
 				"yres"			"480 599"
@@ -393,7 +393,7 @@ Scheme
 			{
 				"name"			"Cerbetica"
 				"tall"			"32"
-				"weight"		"500"
+				"weight"		"100"
 				"additive"		"0"
 				"antialias"		"1"
 				"yres"			"600 767"
@@ -402,7 +402,7 @@ Scheme
 			{
 				"name"			"Cerbetica"
 				"tall"			"44"
-				"weight"		"500"
+				"weight"		"100"
 				"additive"		"0"
 				"antialias"		"1"
 				"yres"			"768 1023"
@@ -411,7 +411,7 @@ Scheme
 			{
 				"name"			"Cerbetica"
 				"tall"			"48"
-				"weight"		"500"
+				"weight"		"100"
 				"additive"		"0"
 				"antialias" 	"1"
 				"yres"			"1024 1199"
@@ -420,7 +420,7 @@ Scheme
 			{
 				"name"			"Cerbetica"
 				"tall"			"52"
-				"weight"		"500"
+				"weight"		"100"
 				"additive"		"0"
 				"antialias" 	"1"
 				"yres"			"1200 10000"
@@ -975,7 +975,7 @@ Scheme
 				"name"			"Cerbetica"
 				"tall"			"24"
 				"antialias" 	"1"
-				"weight"		"500"
+				"weight"		"900"
 				"range"			"0x0000 0x017F"
 			}
 		}
@@ -998,7 +998,7 @@ Scheme
 				"name"			"Cerbetica"
 				"tall"			"24"
 				"antialias" 	"1"
-				"weight"		"900"
+				"weight"		"1100"
 				"range"			"0x0000 0x017F"
 			}
 		}
@@ -1009,7 +1009,7 @@ Scheme
 				"name"			"Cerbetica"
 				"tall"			"24"
 				"antialias" 	"1"
-				"weight"		"900"
+				"weight"		"1100"
 				"italic"		"1"
 				"range"			"0x0000 0x017F"
 			}

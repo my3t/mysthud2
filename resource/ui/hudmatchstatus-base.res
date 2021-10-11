@@ -234,7 +234,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"HudFontMediumSmall"
+			"font"			"HudFontMediumSmallSecondary"
 			"fgcolor"		"TanLight"
 			"xpos"			"0"
 			"ypos"			"0"

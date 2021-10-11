@@ -200,8 +200,8 @@ Scheme
 
 		"ViewportBG"							"Blank"
 		"TeamSpec"								"204 204 204 255"
-		"TeamRed"								"255 64 64 255"
-		"TeamBlue"								"153 204 255 255"
+		"TeamRed"								"184 56 59 255"
+		"TeamBlue"								"88 133 162 255"
 
 		"MapDescriptionText"					"Gray" // the text used in the map description window
 		"HudIcon_Green"							"0 160 0 255"
@@ -210,7 +210,7 @@ Scheme
 		// CHudMenu
 		"ItemColor"								"255 167 42 200"	// default 255 167 42 255
 		"MenuColor"								"255 255 255 255"
-		"MenuBoxBg"								"HudBlack"
+		"MenuBoxBg"								"TransparentBlack"
 
 		// Weapon Selection Colors
 		"SelectionNumberFg"						"251 235 202 255"

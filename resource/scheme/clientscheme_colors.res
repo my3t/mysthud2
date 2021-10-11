@@ -8,39 +8,39 @@
 		"ColorRed"					"255 0 0 255"
 		"ColorYellow"				"255 255 0 255"
 		"ColorGreen"				"48 255 48 255"
-		"ColorCyan"					"72 255 255 255"
-		"ColorCyanFade"				"72 100 100 255"
+		"ColorCyan"					"255 255 255 255"
+		"ColorCyanFade"				"255 255 255 150"
 		"ColorBlue"					"0 0 255 255"
 		"ColorPurple"				"128 0 255 255"
 		"ColorMagenta"				"255 0 255 255"
 		"ColorBlack"				"0 0 0 255"
 		"ColorGreyMid"				"128 128 128 255"
 		"ColorWhite"				"255 255 255 255"
-		"DullWhite"					"132 132 132 255"
+		"DullWhite"					"255 255 255 255"
 		"Grey"						"51 47 46 255"
 		"DarkGrey"					"27 27 27 255"
 		"DarkerGrey"				"22 22 22 255"
-		"TextColor"					"117 107 94 255"
+		"TextColor"					"255 255 255 255"
 		//---------------------------------------------
 		// Gameplay
-		"Ammo In Clip"				"48 255 48 255"
-		"Ammo In Reserve"			"72 255 255 255"
-		"Ammo In Clip Low"			"255 42 130 255"
-		"Ammo In Reserve Low"		"255 128 28 255"
-		"Health Normal"				"235 226 202 255"
+		"Ammo In Clip"				"255 255 255 255"
+		"Ammo In Reserve"			"0 191 255 255"
+		"Ammo In Clip Low"			"255 166 166 255"
+		"Ammo In Reserve Low"		"255 166 166 255"
+		"Health Normal"				"255 255 255 255"
 		"Health Buff"				"48 255 48 255"
-		"Health Hurt"				"255 153 0 255"
+		"Health Hurt"				"255 166 166 255"
 		"Heal Numbers"				"48 255 48 255"
 		"Damage Numbers"			"72 255 255 255"
-		"ItemPanelBG"				"50 50 50 255"
+		"ItemPanelBG"				"0 0 0 100"
 		"Button Color"				"72 255 255 255"
 		//---------------------------------------------
 		// Crosshair Colors
-		"Crosshair"					"242 242 242 255"
+		"Crosshair"					"255 255 255 255"
 		"CrosshairDamage"			"255 0 0 255"
 		//---------------------------------------------
 		// Ubercharge
-		"Uber Bar Color"			"235 226 202 255"
+		"Uber Bar Color"			"255 255 255 255"
 		"Solid Color Uber"			"255 50 25 255"
 		"Flashing Uber Color1"		"255 165 0 255"
 		"Flashing Uber Color2"		"255 69 0 255"
@@ -83,7 +83,7 @@
 		"PartyMember5"							"255 118 108 255"
 		"PartyMember6"							"255 133 255 255"
 
-		"White"									"242 242 242 255"
+		"White"									"199 207 255 225"
 		"Red"									"205 50 50 150"
 		"RedSolid"								"205 50 50 255"
 		"Blue"									"70 130 180 150"
@@ -95,7 +95,7 @@
 
 		"Black"									"29 29 29 255"
 		"Transparent"							"0 0 0 0"
-		"TransparentBlack"						"0 0 0 230"
+		"TransparentBlack"						"0 0 0 100"
 		"TransparentLightBlack"					"0 0 0 90"
 		"FooterBGBlack"							"52 48 55 255"
 
@@ -105,11 +105,11 @@
 		"HUDBlueTeamSolid"						"104 124 155 255"
 		"HUDRedTeamSolid"						"180 92 77 255"
 		"HUDDeathWarning"						"255 0 0 255"
-		"HudWhite"								"255 255 255 255"
+		"HudWhite"								"199 207 255 225"
 		"HudOffWhite"							"200 187 161 255"
 		"HudBlack"								"16 16 16 230"
 		"ProgressBarBlue"						"91 122 142 255"
-		"CreditsGreen"							"94 150 49 255"
+		"CreditsGreen"							"125 225 30 255"
 
 		"Gray"									"178 178 178 255"
 		"Blank"									"0 0 0 0"
@@ -134,7 +134,7 @@
 		"HudTrainingHint"						"212 160 23 255"
 
 		"TanDark"								"117 107 94 255"
-		"TanLight"								"235 226 202 255"
+		"TanLight"								"255 255 255 255"
 		"TanDarker"								"46 43 42 255"
 
 		"StoreDarkTan"							"131 121 104 255"
@@ -142,7 +142,7 @@
 
 		// Building HUD Specific
 		"LowHealthRed"							"255 0 0 255"
-		"ProgressOffWhite"						"251 235 202 255"
+		"ProgressOffWhite"						"199 207 255 225"
 		"ProgressBackground"					"250 234 201 51"
 		"HealthBgGrey"							"72 71 69 255"
 
@@ -164,7 +164,7 @@
 		"HTMLBackground"						"95 92 101 255"
 
 		"ItemAttribLevel"						"117 107 94 255"
-		"ItemAttribNeutral"						"235 226 202 255"
+		"ItemAttribNeutral"						"255 255 255 255"
 		"ItemAttribPositive"					"153 204 255 255"
 		"ItemAttribNegative"					"255 64 64 255"
 

@@ -7,21 +7,21 @@ Scheme
 	{
 		// base colors
 		"White"				"255 255 255 255"
-		"OffWhite"			"216 216 216 255"
-		"DullWhite"			"142 142 142 255"
+		"OffWhite"			"255 255 255 255"
+		"DullWhite"			"255 255 255 255"
 		"Orange"			"156 82 33 255"
 		"TransparentBlack"	"0 0 0 128"
-		"Black"				"0 0 0 255"
+		"Black"				"0 0 0 100"
 		"Green"				"63 185 73 255"
 		"Blank"				"0 0 0 0"
 		
 		"DarkBrown"			"60 56 53 255"
-		"TanBright"			"236 227 203 150"
-		"TanLight"			"201 188 162 150"
+		"TanBright"			"255 255 255 255"
+		"TanLight"			"255 255 255 255"
 		"TanDark"			"96 90 78 90"
-		"TextBright"		"251 236 203 150"
+		"TextBright"		"255 255 255 255"
 		"TextBlack"			"42 39 37 255"
-		"TextDull"			"131 121 104 255"
+		"TextDull"			"255 255 255 255"
 	}
 
 	///////////////////// BASE SETTINGS ////////////////////////
@@ -182,9 +182,9 @@ Scheme
 		NewGame.SelectionColor				"Orange"
 		NewGame.DisabledColor				"128 128 128 196"
 
-		TFColors.ChatTextYellow				"251 235 202 255"
-		TFColors.ChatTextTeamBlue			"153 204 255 255"
-		TFColors.ChatTextTeamRed			"255 63 53 255"
+		TFColors.ChatTextYellow				"255 255 255 255"
+		TFColors.ChatTextTeamBlue			"88 133 162 255"
+		TFColors.ChatTextTeamRed			"184 56 59 255"
 	}
 
 	//////////////////////// BITMAP FONT FILES /////////////////////////////
