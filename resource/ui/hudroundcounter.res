@@ -63,6 +63,27 @@
 		"proportionaltoparent"	"1"
 	}
 
+	"Gradient"
+	{
+		"ControlName"		"CTFImagePanel"
+		"fieldName"			"Gradient"
+		"xpos"				"c-25"
+		"ypos"				"0"
+		"zpos"				"6"
+		"wide"				"50"
+		"tall"				"10"
+		"visible"			"1"
+		"enabled"			"0"
+		"image"				"replay/thumbnails/gradient"
+		"scaleImage"		"1"
+		"proportionaltoparent"	"1"
+		
+		if_mvm
+		{
+			"visible"	"0"
+		}
+	}
+	
 	"BlueTeamBackground"
 	{
 		"ControlName"	"ImagePanel"

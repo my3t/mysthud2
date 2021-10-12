@@ -12,7 +12,7 @@
 		"wide"				"180"
 		"tall"				"8"
 		"MeterFG"			"White"
-		"MeterBG"			"Gray"
+		"MeterBG"			"TransparentBlack"
 	}
 
 	"ItemEffectMeterLabel"

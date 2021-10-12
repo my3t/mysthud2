@@ -10,6 +10,27 @@
 		"tall"				"100"
 		"visible"			"1"
 
+		"Gradient"
+		{
+			"ControlName"		"CTFImagePanel"
+			"fieldName"			"Gradient"
+			"xpos"				"0"
+			"ypos"				"15"
+			"zpos"				"6"
+			"wide"				"200"
+			"tall"				"25"
+			"visible"			"1"
+			"enabled"			"0"
+			"image"				"replay/thumbnails/gradient"
+			"scaleImage"		"1"
+			"proportionaltoparent"	"1"
+			
+			if_mvm
+			{
+				"visible"	"0"
+			}
+		}
+
 		"BlueScoreBG"
 		{
 			"ControlName"		"EditablePanel"

@@ -83,7 +83,7 @@
 		"PartyMember5"							"255 118 108 255"
 		"PartyMember6"							"255 133 255 255"
 
-		"White"									"199 207 255 225"
+		"White"									"255 255 255 225"
 		"Red"									"205 50 50 150"
 		"RedSolid"								"205 50 50 255"
 		"Blue"									"70 130 180 150"
@@ -144,7 +144,7 @@
 		"LowHealthRed"							"255 0 0 255"
 		"ProgressOffWhite"						"199 207 255 225"
 		"ProgressBackground"					"250 234 201 51"
-		"HealthBgGrey"							"72 71 69 255"
+		"HealthBgGrey"							"199 207 255 225"
 
 		"LabelDark"								"48 43 42 255"
 		"LabelTransparent"						"109 96 80 180"

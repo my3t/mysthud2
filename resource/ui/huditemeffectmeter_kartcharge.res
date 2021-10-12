@@ -11,7 +11,7 @@
 		"wide"					"500"
 		"tall"					"500"
 		"MeterFG"				"White"
-		"MeterBG"				"Gray"
+		"MeterBG"				"TransparentBlack"
 	}
 
 	"ItemEffectMeterLabel"

@@ -24,6 +24,26 @@
 		"killstreak_width"	"15"
 		"killstreak_image_width" "15"
 	}
+	"Gradient"
+	{
+		"ControlName"		"CTFImagePanel"
+		"fieldName"			"Gradient"
+		"xpos"				"c-265"
+		"ypos"				"144"
+		"zpos"				"6"
+		"wide"				"540"
+		"tall"				"25"
+		"visible"			"1"
+		"enabled"			"0"
+		"image"				"replay/thumbnails/gradient"
+		"scaleImage"		"1"
+		"proportionaltoparent"	"1"
+		
+		if_mvm
+		{
+			"visible"	"0"
+		}
+	}
 	"BlueScoreBG"
 	{
 		"ControlName"	"EditablePanel"
@@ -313,7 +333,7 @@
 		"labelText"		"%servertime%"
 		"textAlignment"	"center"
 		"xpos"			"5"
-		"ypos"			"5"
+		"ypos"			"80"
 		"wide"			"f0"
 		"tall"			"20"
 		"autoResize"	"0"
@@ -373,7 +393,7 @@
 		"fieldName"		"Spectators"
 		"font"			"HudFontSmallest"
 		"labelText"		"%spectators%"
-		"textAlignment"	"west"
+		"textAlignment"	"center"
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"f0"

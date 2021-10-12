@@ -106,7 +106,7 @@
 		"wide"				"f0"
 		"tall"				"480"
 		"MeterFG"			"White"
-		"MeterBG"			"Gray"
+		"MeterBG"			"TransparentBlack"
 	}
 
 	"HudMedicCharge"
@@ -131,7 +131,7 @@
 		"wide"				"f0"
 		"tall"				"500"
 		"MeterFG"			"White"
-		"MeterBG"			"Gray"
+		"MeterBG"			"TransparentBlack"
 	}
 
 	"HudBowCharge"
@@ -145,7 +145,7 @@
 		"wide"				"0"
 		"tall"				"500"
 		"MeterFG"			"White"
-		"MeterBG"			"Gray"
+		"MeterBG"			"TransparentBlack"
 	}
 
 	"HudFlameRocketCharge"
@@ -162,7 +162,7 @@
 		"wide_minmode"		"50"
 		"tall"				"8"
 		"MeterFG"			"White"
-		"MeterBG"			"Gray"
+		"MeterBG"			"TransparentBlack"
 	}
 
 	"HudBossHealth"
@@ -176,7 +176,7 @@
 		"wide"				"200"
 		"tall"				"50"
 		"MeterFG"			"Red"
-		"MeterBG"			"Gray"
+		"MeterBG"			"TransparentBlack"
 	}
 
 	"HudWeaponSelection"
