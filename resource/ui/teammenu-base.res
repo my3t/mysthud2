@@ -367,8 +367,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"&1"
-		"command"		"jointeam blue"
-		"team"			"3"
+		"command"		"jointeam auto"
 	}
 
 	"teambutton1SC"
@@ -380,8 +379,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"&2"
-		"command"		"jointeam red"
-		"team"			"4"
+		"command"		"jointeam spectate"
 	}
 
 	"teambutton2SC"
@@ -393,7 +391,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"&3"
-		"command"		"jointeam auto"
+		"command"		"jointeam blue"
+		"team"			"3"
 	}
 
 	"teambutton3SC"
@@ -405,6 +404,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"&4"
-		"command"		"jointeam spectate"
+		"command"		"jointeam red"
+		"team"			"4"
 	}
 }

@@ -66,9 +66,9 @@ event HudLowAmmoPulseStop
 // Ubercharge Meters
 event HudMedicCharged
 {
-	RunEvent HudMedicOrangePulseCharge 	0.0
+	//RunEvent HudMedicOrangePulseCharge 	0.0
 	//RunEvent HudMedicSolidColorCharge	0.0
-	//RunEvent HudMedicRainbowCharged 	0.0
+	RunEvent HudMedicRainbowCharged 	0.0
 
 	RunEvent HudMedicChargedLoop		0.6
 }
@@ -185,3 +185,14 @@ event TeamStatus_PlayerAlive
 event CompetitiveGame_LowerChatWindow { }
 event CompetitiveGame_RestoreChatWindow { }
 event HudTournament_MoveChatWindow { }
+
+event MenuOpen
+{
+	StopEvent	MenuClose 0.0
+	Animate HudMenu xPos		"0"		Linear 0.0 0.1
+}
+
+event MenuClose
+{
+	Animate HudMenu xPos		"-200" Linear 0.0 0.1
+}

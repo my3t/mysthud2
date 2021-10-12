@@ -36,8 +36,8 @@
 		"Button Color"				"72 255 255 255"
 		//---------------------------------------------
 		// Crosshair Colors
-		"Crosshair"					"255 255 255 255"
-		"CrosshairDamage"			"255 0 0 255"
+		"Crosshair"					"0 0 0 100"
+		"CrosshairDamage"			"46 204 113 200"
 		//---------------------------------------------
 		// Ubercharge
 		"Uber Bar Color"			"255 255 255 255"
