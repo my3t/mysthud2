@@ -3,7 +3,6 @@ Credits
 HUDs
 - rayshud - [github](https://github.com/raysfire/rayshud), [huds.tf](https://github.com/raysfire/rayshud) (Original HUD)
 - ToonHUD - [website](http://toonhud.com/), [huds.tf](http://huds.tf/forum/showthread.php?tid=234) (Boss Health Bar, Match Timer HUD Gradient)
-- 
 - and a few other huds
 
 Others
