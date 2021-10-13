@@ -341,6 +341,13 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"allcaps"		"0"
+		
+		if_mvm
+		{
+			"textAlignment"	"west"
+			"xpos"			"15"
+			"ypos"			"10"
+		}
 	}
 	
 	"ServerLabel"
@@ -363,6 +370,11 @@
 		"pin_to_sibling"		"ServerTimeValue"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
+		
+		if_mvm
+		{
+			"textAlignment"	"west"
+		}
 	}
 
 	"MapName"
@@ -385,6 +397,11 @@
 		"pin_to_sibling"		"ServerLabel"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
+		
+		if_mvm
+		{
+			"textAlignment"	"west"
+		}
 	}
 	
 	"Spectators"

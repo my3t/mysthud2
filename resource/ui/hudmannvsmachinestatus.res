@@ -238,7 +238,7 @@
 			"src_corner_width"	"22"
 		
 			"draw_corner_width"	"5"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"5"	
+			"draw_corner_height" 	"5"
 		}
 	
 		"ServerChangeLabel"
@@ -254,7 +254,7 @@
 			"tall"			"20"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"tanlight"		
+			"fgcolor"		"tanlight"
 		}
 	}
 	

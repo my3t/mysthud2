@@ -19,14 +19,14 @@
 		"src_corner_width"	"22"
 	
 		"draw_corner_width"	"0"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"0"	
+		"draw_corner_height" 	"0"
 	}
 	
 	"WaveCountLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"WaveCountLabel"
-		"font"			"CerbeticaBold16"
+		"font"			"Cerbetica16"
 		"fgcolor"		"TanLight"
 		"xpos"			"200"
 		"ypos"			"5"
@@ -67,7 +67,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SupportLabel"
-		"font"			"CerbeticaBold14"
+		"font"			"Cerbetica14"
 		"fgcolor"		"TanLight"
 		"xpos"			"55"
 		"ypos"			"6"
@@ -82,7 +82,7 @@
 		if_verbose
 		{
 			"visible"		"1"
-		}		
+		}
 	}
 	
 	"ProgressBar"
@@ -105,7 +105,7 @@
 		"src_corner_width"	"22"
 	
 		"draw_corner_width"	"0"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"0"	
+		"draw_corner_height" 	"0"
 	}
 	
 	"ProgressBarBG"
@@ -128,7 +128,7 @@
 		"src_corner_width"	"22"
 	
 		"draw_corner_width"	"0"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"0"	
+		"draw_corner_height" 	"0"
 	}
 	
 	"ProgressBarBG2"
