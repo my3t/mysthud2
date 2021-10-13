@@ -232,7 +232,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"labelText"		"rayshud"
+		"labelText"		"mysthud2"
 		"font"			"HudFontMediumSecondary"
 		"textAlignment"	"west"
 		"textinsetx"	"0"
