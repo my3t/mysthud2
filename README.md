@@ -1,36 +1,47 @@
-<!-- TITLE -->
-![banner](https://user-images.githubusercontent.com/6818236/124364740-7dea6480-dc11-11eb-88e3-f75e21065dd7.png)
-<p align="center">
-  <p align="center">
-    A simplistic yet bold hud for TF2 made to cut out a lot of clutter included that of the stock hud. Comes with a range of various vivid colors associated with both low health as well as ammo to make important information easily accessible and noticeable.
-    <br />
-    <a href="https://github.com/raysfire/rayshud/archive/master.zip">Download</a>
-    ·
-    <a href="https://github.com/raysfire/rayshud/issues">Issue Tracker</a>
-    ·
-    <a href="https://github.com/CriticalFlaw/TF2HUD.Editor/releases/latest">Editor</a>
-  </p>
-</p>
+Credits
+----
+HUDs
+- rayshud - [github](https://github.com/raysfire/rayshud), [huds.tf](https://github.com/raysfire/rayshud) (Original HUD)
+- ToonHUD - [website](http://toonhud.com/), [huds.tf](http://huds.tf/forum/showthread.php?tid=234) (Boss Health Bar, Match Timer HUD Gradient)
+- aHUD - [github](https://github.com/n0kk/ahud), [huds.tf](http://huds.tf/forum/showthread.php?tid=191) (Chat, Custom Control Point Icons)
+- and a few other huds that I forgot as this was made years ago
+
+Others
+- Friedrich Habetler Music - [YouTube](https://www.youtube.com/channel/UCxNHoPzGagd7YxvWavZj8Ag) (Main Menu Themes Rock Version)
+- Mr. Light - [YouTube](https://www.youtube.com/watch?v=bhZ8JV2C79A) (Main Menu BG)
+
+Screenshots
+----
+[Album](https://imgur.com/a/eX0ed) (**Outdated**)
 
 About
--------
+--------
+This original hud was made by raysfire, currently maintained by CriticalFlaw. mystHUD is a custom game ui modification for Team Fortress 2, it combines a few elements from multiple other huds but using rayshud as its core.
 
-A simplistic yet bold HUD for Team Fortress 2, made to cut out a lot of clutter included with the stock hud. Includes minimal mode for competitive play and a range of vivid colors associated with both low health, ammo and other useful values.
+I like rayshud, which is why I am NOT going to edit most of its contents. mystHUD are my edits of rayshud with changes such as edits to certain elements that I find very 'off', or can be improved to my liking.
+
+My edit of rayshud was published because there are requests for it.
+
+Difference
+----
+The biggest and most obvious difference in this edit is changing the main theme of the hud from cyan to white. I am not a big fan of rayshud's cyan color. Another major change is making most hud elements white in color, rather than using the default TF2's dull white color.
+
+This gives the hud a cleaner look as compared to rayshud.
+
+Updates
+----
+You can expect this hud to be updated regularly for as long as I am playing Team Fortress 2. The updates will be merged over from rayshud as soon as they get updated.
 
 Installation
---------
-
-Be sure to back up your old hud folder first! You never know when something might break, and it's always best to be prepared.
-
-1. [Click here][download-link] to download the latest version. This will download `rayshud-master.zip`
-2. Navigate to `C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\custom`
+----
+1. Download the [latest release](https://github.com/my3t/mystHUD/archive/master.zip). This will download `mystHUD-master.zip`.
+2. Navigate to `C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\custom`.
 3. Extract .zip file contents into the `custom` folder.
-4. Ensure that the final file structure should resembles the following:
+4. Ensure that the final file structure should resembles the following.
 ```
 tf
 └── custom
-    └── rayshud
-        ├── #customizations
+    └── mysthud2
         ├── materials
         ├── resource
         ├── scripts
@@ -38,23 +49,15 @@ tf
         ├── README.md
         └── info.vdf
 ```
+5. Restart your game.
 
-Help/Support
---------
-If you find a bug, need help or have a suggestion, [open a support ticket on GitHub][issues-link] or [join the support Discord server][discord-link].
+Updating
+----
+1. Uninstall the hud by deleting the folder you installed from your tf/custom directory.
+2. Download the [latest release](https://github.com/my3t/mysthud2/archive/master.zip) and follow the installation instructions from above.
+3. Restart your game.
 
-Credits
---------
-
-* omp - For motivating me to start making my own hud, occasional reference, and inspiration.
-* m0re - Inspiration, occasional reference.
-* Whoever makes PVHUD - Inspiration, occasional reference.
-* My team - For dealing with me and giving me constructive feedback all the time.
-* Flame - If it weren't for your guide, I couldn't have made this at all. Thanks a million, man.
-* clovervidia - For the updated closed captions. Check his Steam Guide [here][cc-link].
-
-<!-- LINKS -->
-[download-link]: https://github.com/raysfire/rayshud/archive/master.zip
-[issues-link]: https://github.com/raysfire/rayshud/issues/new
-[discord-link]: https://discord.gg/hTdtK9vBhE
-[cc-link]: https://steamcommunity.com/sharedfiles/filedetails/?id=167785751
+Uninstall
+----
+1. Delete the folder you installed from your tf/custom directory
+2. Restart your game.
