@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+Credits
+----
+HUDs
+- rayshud - [github](https://github.com/raysfire/rayshud), [huds.tf](https://github.com/raysfire/rayshud) (Original HUD)
+- ToonHUD - [website](http://toonhud.com/), [huds.tf](http://huds.tf/forum/showthread.php?tid=234) (Boss Health Bar, Match Timer HUD Gradient)
+- and a few other huds
 
-You can use the [editor on GitHub](https://github.com/my3t/mysthud2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Others
+- Friedrich Habetler Music - [YouTube](https://www.youtube.com/channel/UCxNHoPzGagd7YxvWavZj8Ag) (Main Menu Themes Rock Version)
+- Mr. Light - [YouTube](https://www.youtube.com/watch?v=bhZ8JV2C79A) (Main Menu BG)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+About
+--------
+This original hud was made by raysfire, currently maintained by CriticalFlaw. mysthud is a custom game ui modification for Team Fortress 2, it combines a few elements from multiple other huds but using rayshud as its core.
 
-### Markdown
+I like rayshud, which is why I am NOT going to edit most of its contents. mysthud are my edits of rayshud with changes such as edits to certain elements that I find very 'off', or can be improved to my liking.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My edit of rayshud was published because there were requests for it.
 
-```markdown
-Syntax highlighted code block
+Contrasts
+----
+The biggest and most obvious difference in this edit is changing the main theme of the hud from cyan to white. I am not a big fan of rayshud's cyan color. Another major change is making most hud elements white in color, rather than using the default TF2's dull white color.
 
-# Header 1
-## Header 2
-### Header 3
+This gives the hud a cleaner look as compared to rayshud.
 
-- Bulleted
-- List
+Updates
+----
+You can expect this hud to be updated regularly for as long as I am playing Team Fortress 2. The updates will be merged over from rayshud as soon as they get updated.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Installation
+----
+1. Download the [latest release](https://github.com/my3t/mystHUD/archive/master.zip). This will download `mystHUD-master.zip`.
+2. Navigate to `C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\custom`.
+3. Extract .zip file contents into the `custom` folder.
+4. Ensure that the final file structure should resembles the following.
 ```
+tf
+└── custom
+    └── mysthud2
+        ├── materials
+        ├── resource
+        ├── scripts
+        ├── sound
+        ├── README.md
+        └── info.vdf
+```
+5. Restart your game.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Updating
+----
+1. Uninstall the hud by deleting the folder you installed from your tf/custom directory.
+2. Download the [latest release](https://github.com/my3t/mysthud2/archive/master.zip) and follow the installation instructions from above.
+3. Restart your game.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/my3t/mysthud2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Uninstall
+----
+1. Delete the folder you installed from your tf/custom directory
+2. Restart your game.
