@@ -13,7 +13,7 @@
 	{
 		"visible"			"1"
 		"enabled"			"1"
-		"labelText"			":"
+		"labelText"			"0"
 		"controlName"		"CExLabel"
 		"fieldName"			"CustomCrosshair"
 		"zpos"				"0"
@@ -23,7 +23,7 @@
 		"tall"				"f0"
 		"font"				"Size:30 | Outline:OFF"
 		"textAlignment"		"center"
-		"fgcolor"			"Crosshair"
+		"fgcolor"			"0 0 0 0" // Crosshair
 	}
 	//--------------------------------------------------------------
 	// TRANSPARENT VIEWMODEL
@@ -217,8 +217,8 @@
 	"CHudAccountPanel"
 	{
 		"fieldName"				"CHudAccountPanel"
-		"xpos"					"c200"
-		"ypos"					"c130"
+		"xpos"					"c-29"
+		"ypos"					"c20"
 		"zpos"					"0"
 		"wide"					"55"
 		"tall"  				"70"
@@ -274,7 +274,7 @@
 		"visible" 				"0"
 		"enabled" 				"1"
 		"xpos"					"c-100"
-		"ypos"					"c110"
+		"ypos"					"c50"
 		"ypos_minmode"			"c80"
 		"wide"					"600"
 		"tall"					"50"
@@ -287,7 +287,7 @@
 		"visible" 				"0"
 		"enabled" 				"1"
 		"xpos"					"c-100"
-		"ypos"					"c135"
+		"ypos"					"c50"
 		"wide"					"600"
 		"tall"					"50"
 		"priority"				"40"
@@ -301,7 +301,7 @@
 		"visible" 				"0"
 		"enabled" 				"1"
 		"xpos"					"c-100"
-		"ypos"					"c145"
+		"ypos"					"c50"
 		"ypos_minmode"			"c140"
 		"wide"					"600"
 		"tall"					"50"
@@ -314,8 +314,8 @@
 		"ControlName"			"EditablePanel"
 		"visible"				"0"
 		"enabled"				"1"
-		"xpos"					"5"
-		"ypos"					"c-100"
+		"xpos"					"10"
+		"ypos"					"c-30"
 		"wide"					"640"
 		"tall"					"480"
 	}
@@ -1184,7 +1184,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"xpos"				"0"
-		"ypos"				"r30"
+		"ypos"				"r70"
 		"zpos"				"1"
 		"wide"				"f0"
 		"tall"				"25"
