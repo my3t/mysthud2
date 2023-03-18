@@ -87,7 +87,7 @@
 		"tall"				"17"
 		"visible"			"0"
 		"enabled"			"0"
-		"bgcolor_override"	"HudBlack"
+		"bgcolor_override"	"TransparentBlack"
 		"PaintBackgroundType"	"2"
 
 		"if_hybrid"
@@ -427,7 +427,7 @@
 					"textAlignment"		"west"
 					"labelText"			"#TF_RD_BlueFinale"
 					"font"				"HudFontSmallBold"
-					"fgcolor"			"Black"
+					"fgcolor"			"TransparentBlack"
 					"proportionalToParent"	"1"
 				}
 
@@ -566,7 +566,7 @@
 					"textAlignment"		"west"
 					"labelText"			"#TF_RD_RedFinale"
 					"font"				"HudFontSmallBold"
-					"fgcolor"			"Black"
+					"fgcolor"			"TransparentBlack"
 					"proportionalToParent"	"1"
 				}
 
@@ -606,7 +606,7 @@
 					"textAlignment"		"west"
 					"labelText"			"%victorytime%"
 					"font"				"HudFontSmallBold"
-					"fgcolor"			"Black"
+					"fgcolor"			"TransparentBlack"
 					"proportionalToParent"	"1"
 
 					"pin_to_sibling"			"VictoryLabel"

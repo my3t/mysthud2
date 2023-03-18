@@ -41,8 +41,8 @@ tf
         ├── resource
         ├── scripts
         ├── sound
-        ├── README.md
-        └── info.vdf
+        ├── info.vdf
+        └── README.md
 ```
 5. Restart your game.
 

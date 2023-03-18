@@ -4,10 +4,10 @@
 	{
 		"ControlName"		"CWaveStatusPanel"
 		"fieldName"			"WaveStatusPanel"
-		"xpos"				"c-300"
+		"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"0"
-		"wide"				"600"
+		"wide"				"f0"
 		"tall"				"67"
 		"visible"			"1"
 		"enabled"			"1"
@@ -42,32 +42,18 @@
 		"pin_corner_to_sibling"        "4"          
 		"pin_to_sibling_corner"        "6"  
 	}
-	
-	"CurrencyStatusPanel"
-	{
-		"ControlName"		"CCurrencyStatusPanel"
-		"fieldName"			"CurrencyStatusPanel"
-		"xpos"				"c-190"
-		"ypos"				"r90"
-		"wide"				"100"
-		"tall"				"100"
-		"visible" 			"1"
-		"enabled" 			"1"
-	}
-	
+
 	"InWorldCurrencyPanel"
 	{
-		"ControlName" 		"CInWorldCurrencyStatus"
-		"fieldName" 		"InWorldCurrencyPanel"
-		"xpos"				"c-190"
-		"ypos" 				"r65"
-		"wide" 				"100"
-		"tall" 				"20"
+		"ControlName"		"CInWorldCurrencyStatus"
+		"fieldName"			"InWorldCurrencyPanel"
+		"xpos"				"r105"
+		"ypos"				"r25"
+		"wide"				"100"
+		"tall"				"20"
 		"visible" 			"1"
 		"enabled" 			"1"
 	}
-
-
 
 	"WarningSwoop"
 	{
