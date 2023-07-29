@@ -186,6 +186,7 @@
 			"font"			"HudFontSmallBold"
 			"fgcolor"		"Black"	
 			"proportionalToParent"	"1"
+			"pin_to_sibling"		"FlagValue"
 		}
 
 		"TeamLeaderImage"
