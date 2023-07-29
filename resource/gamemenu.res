@@ -1,11 +1,5 @@
 "GameMenu"
 {
-	"HomeServerButton"
-	{
-		"label"			"p"
-		"command"		"engine clear; showconsole; echo To setup a shortcut to your favorite server, open rayshud/resource/gamemenu.res and under 'HomeServerButton' replace the value of 'command' with the connection string to your server. Example: engine connect 192.168.1.10:27015; password hello"
-		"tooltip"		"Home Server"
-	}
 	"AchievementsButton"
 	{
 		"label"			"b"
@@ -92,30 +86,30 @@
 	{
 		"label"			"p"
 		"command"		"engine connect sg.hub.titan.tf:27015"
-		"tooltip"		"Home Server 1"
+		"tooltip"		"titan.tf SG - Hub"
 	}
 	"HomeServerButton2"
 	{
 		"label"			"p"
 		"command"		"engine connect sg.mvmx1000.titan.tf:27000"
-		"tooltip"		"Home Server 2"
+		"tooltip"		"titan.tf SG - MvM x1000"
 	}
 	"HomeServerButton3"
 	{
 		"label"			"p"
 		"command"		"engine connect sg.ma1.titan.tf:27000"
-		"tooltip"		"Home Server 3"
+		"tooltip"		"titan.tf SG - MA 1"
 	}
 	"HomeServerButton4"
 	{
 		"label"			"p"
 		"command"		"engine connect sg.ma2.titan.tf:27000"
-		"tooltip"		"Home Server 4"
+		"tooltip"		"titan.tf SG - MA 2"
 	}
 	"HomeServerButton5"
 	{
 		"label"			"p"
 		"command"		"engine connect sg.ma3.titan.tf:27000"
-		"tooltip"		"Home Server 5"
+		"tooltip"		"titan.tf SG - MA 3"
 	}
 }
