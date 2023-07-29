@@ -188,36 +188,6 @@
 			"proportionalToParent"	"1"
 		}
 
-		"WhiteBG"
-		{
-			"ControlName"	"EditablePanel"
-			"fieldName"		"WhiteBG"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"1"
-			"wide"			"40"
-			"tall"			"18"
-			"visible"		"0"
-			"enabled"		"0"
-			"PaintBackgroundType"	"0"
-			"bgcolor_override"	"TanLight"
-		}	
-	
-		"GreenBG"
-		{
-			"ControlName"	"EditablePanel"
-			"fieldName"		"GreenBG"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"2"
-			"wide"			"38"
-			"tall"			"16"
-			"visible"		"0"
-			"enabled"		"0"
-			"PaintBackgroundType"	"2"
-			"bgcolor_override"	"CreditsGreen"
-		}
-
 		"TeamLeaderImage"
 		{
 			"ControlName"	"CTFImagePanel"

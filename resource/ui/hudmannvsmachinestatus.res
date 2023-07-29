@@ -37,10 +37,10 @@
 		"tall"				"100"
 		"visible"			"1"
 		"enabled"			"1"
-		
-		"pin_to_sibling"               "WaveStatusPanel"
-		"pin_corner_to_sibling"        "4"          
-		"pin_to_sibling_corner"        "6"  
+
+		"pin_to_sibling"			"WaveStatusPanel"
+		"pin_corner_to_sibling"		"4"
+		"pin_to_sibling_corner"		"6"
 	}
 
 	"InWorldCurrencyPanel"

@@ -1,5 +1,3 @@
-#base	"..\#customizations\_streamermode\scripts\hudlayout.res"
-
 "Resource/HudLayout.res"
 {
 	//--------------------------------------------------------------
@@ -369,8 +367,8 @@
 	{
 		"ControlName"			"CCurrencyStatusPanel"
 		"fieldName"				"CurrencyStatusPanel"
-		"xpos"					"c-190"
-		"ypos"					"r90"
+		"xpos"					"r105"
+		"ypos"					"r45"
 		"wide"					"100"
 		"tall"					"20"
 		"visible"				"1"
@@ -612,15 +610,11 @@
 		"fieldName" 		"HudCloseCaption"
 		"visible"			"1"
 		"enabled"			"1"
-		"xpos"				"c205"
-		"ypos"				"302"
-		"wide"				"150"
-		"tall"				"60"
-		"xpos_minmode"		"c170"
-		"ypos_minmode"		"273"
-		"wide_minmode"		"120"
-		"tall_minmode"		"40"
-		"BgAlpha"			"0"
+		"xpos"				"r150"
+		"ypos"				"r300"
+		"wide"				"145"
+		"tall"				"200"
+		"BgAlpha"			"128"
 		"GrowTime"			"0.25"
 		"ItemHiddenTime"	"0.2"
 		"ItemFadeInTime"	"0.15"

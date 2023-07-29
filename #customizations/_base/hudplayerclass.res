@@ -79,8 +79,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"render_texture"	"0"
-		"fov"			"12"
-		"allow_rot"		"1"
+		"fov"				"20"
+		"allow_rot"			"1"
 
 		"model"
 		{
